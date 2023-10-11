@@ -1,10 +1,11 @@
+<!--
 ### CS548 Web Services Techniques and REST Technologies
 
 ## 2023 Fall @ SFBU
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dvkrmvze2rg2o1v6wjkwqvnpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-<!--
+
 **thaminmg/thaminmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
